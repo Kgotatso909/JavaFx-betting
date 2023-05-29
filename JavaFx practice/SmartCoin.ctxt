@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SmartCoin
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=
+comment2.target=void\ startCountdown()
+comment3.params=now
+comment3.target=void\ handle(long)
+comment4.params=
+comment4.target=void\ stopCountdown()
+comment5.params=message
+comment5.target=void\ showResults(java.lang.String)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
